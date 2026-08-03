@@ -29,3 +29,8 @@ lily.jpg {
   width: 600px;
   border-radius: 20px;
 }
+
+button {
+  button-color: #005088;
+  color:  #fff6df;
+}
