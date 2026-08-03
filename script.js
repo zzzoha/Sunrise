@@ -1,3 +1,3 @@
 function ClickHello() {
-    alert("Hello");
+    alert("Hello!!! I love meeting new people!");
 }
