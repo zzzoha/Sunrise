@@ -2,14 +2,6 @@
   font-family: sans-serif;
 }
 
-div {
-  display: flex;
-  align-items: center;
-  justify-items: center;
-  flex-direction: column;
-}
-  
-
 main {
   display: flex;
   flex-direction: column;
