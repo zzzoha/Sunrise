@@ -1,6 +1,15 @@
 * {
   font-family: sans-serif;
 }
+
+a {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  flex-direction: column;
+}
+  
+
 main {
   display: flex;
   flex-direction: column;
