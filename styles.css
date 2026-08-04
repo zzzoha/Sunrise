@@ -18,6 +18,11 @@ h1 {
   font-size: 60px;
   margin: 0;
   margin-top: 60px;
+  transition: color 200ms;
+}
+
+h1:hover {
+  color: tomato;
 }
 
 h2 {
@@ -33,13 +38,3 @@ lily.jpg {
 button {
   color: #005088;
 }
-
-.hover-text {
-  color: black;
-  transition: color 200ms;
-}
-
-.hover-text:hover {
-  color: tomato;
-}
-
