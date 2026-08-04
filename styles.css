@@ -18,6 +18,11 @@ h1 {
   font-size: 60px;
   margin: 0;
   margin-top: 60px;
+  color: #005088;
+}
+
+h1: hover {
+  color: tomato
 }
 
 h2 {
