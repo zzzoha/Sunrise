@@ -34,4 +34,12 @@ button {
   color: #005088;
 }
 
+.hover-text {
+  color: black;
+  transition: color 200ms;
+}
+
+.hover-text:hover {
+  color: tomato;
+}
 
