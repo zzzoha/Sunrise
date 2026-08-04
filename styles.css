@@ -32,20 +32,6 @@ lily.jpg {
 
 button {
   color: #005088;
-  cursor: pointer;
-  outline: none;
-  width: 120px;
-  height: 75px;
-  font-family: Helvetica, sans-serif;
-  font-size: 25px;
-  text-shadow: 0 2px 5px black;
-  background: linear-gradient (to bottom, #fff6df);
-  border: 2px solid black;
-  border-radius: 5px;
 }
 
-.button-container {
-  border: 2px solid black;
-  padding: 10px;
-  border-radius: 5px;
-}
+
